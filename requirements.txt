@@ -1,4 +1,4 @@
-timm=0.4.9
+timm==0.4.9
 tensorboard
 loguru
 einops
